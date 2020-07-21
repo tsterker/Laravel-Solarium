@@ -1,6 +1,7 @@
 {
     "name": "tsterker/solarium",
     "description": "Laravel Manager for Solarium",
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
